@@ -14,60 +14,60 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Certified Front-end Developer and UX/UI Designer. Developed multiple websites and mobile applications using HTML/CSS/JavaScript, Bootstrap, React, and React Native. Also familiar with Google Cloud and SQL. Currently advancing my knowledge and education by pursing a Full Stack Web Development Certification. Open to all opportunities including internships/apprenticeships.",
+    "Certified Front-end Developer and UX/UI Designer. Developed multiple websites and mobile applications using HTML/CSS/JavaScript, Bootstrap, React, and React Native. Also familiar with Google Cloud and SQL. Currently advancing my knowledge and education by pursuing a Full Stack Web Development Certification. Open to all opportunities including internships/apprenticeships.",
 };
 
 const skillsBar = [
   {
     name: "HTML",
     // To add a custom svg instead of font-awesome icons, add svg path below otherwise just comment it out
-    svg: "M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z",
-    faClass: "fab fa-html",
+    // svg: "M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z",
+    //faClass: "fab fa-code",
   },
   {
     name: "CSS",
     // svg: '',
-    faClass: "fab fa-css3",
+   // faClass: "fab fa-css3",
   },
   {
     name: "Javascript",
     // svg: '',
-    faClass: "fab fa-js",
+    //faClass: "fab fa-js",
   },
   {
     name: "Bootstrap",
     // svg: '',
-    faClass: "fab fa-sass",
+   // faClass: "fab fa-sass",
   },
   {
     name: "Node",
     // svg: '',
-    faClass: "fab fa-node",
+    //faClass: "fab fa-node",
   },
   {
     name: "React",
     // svg: '',
-    faClass: "fab fa-python",
+   // faClass: "fab fa-python",
   },
   {
     name: "React Native",
     // svg: '',
-    faClass: "fab fa-java",
+    //faClass: "fab fa-java",
   },
   {
     name: "GCP",
     // svg: '',
-    faClass: "fab fa-php",
+    //faClass: "fab fa-php",
   },
   {
     name: "Express",
     // svg: '',
-    faClass: "fas fa-database",
+    //faClass: "fas fa-database",
   },
   {
     name: "MongoDB",
     // svg: '',
-    faClass: "fab fa-aws",
+   // faClass: "fab fa-aws",
   },
 ];
 
