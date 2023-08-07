@@ -3,7 +3,7 @@
 }
 
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('/Users/feebs/Desktop/portfolio-website/src/Naked-Cake-Recipe-Card.jpg');
     cursor: none;    
 }
 .project2{
@@ -12,18 +12,6 @@
 }
 .project3{
     background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
-    cursor: none;
-}
-.project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
-    cursor: none;
-}
-.project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
-    cursor: none;
-}
-.project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
     cursor: none;
 }
 

@@ -14,7 +14,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Certified Front-end Developer and UX/UI Designer. Developed multiple websites and mobile applications using HTML/CSS/JavaScript, Bootstrap, React, and React Native. Also familiar with Google Cloud and SQL. Currently advancing my knowledge and education by pursuing a Full Stack Web Development Certification. Open to all opportunities including internships/apprenticeships.",
+    "I am an aspiring Front-End Developer with a background in UX/UI Design. I've designed multiple wireframes and digital prototypes using Figma and Adobe XD. Once I was able to design websites, I wanted to build them from sratch with my own personal touch. I attended and graduated from Nucamp's Full Stack Web and Mobile Development Bootcamp and started using codes such as Bootstrap, React, React Native, Node.js, and many more to start creating my own websites. Come follow my journey!",
 };
 
 const skillsBar = [
@@ -71,13 +71,13 @@ const skillsBar = [
   },
 ];
 
-const section3Title = "Past Projects";
+const section3Title = "Follow my projects' journeys!";
 const projects = [
   {
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "",
+    name: "Bakery",
+    skills: ["Bootstrap, HTML, CSS"],
+    url: "https://github.com/feebs224/Bakery-Website",
   },
   {
     id: "project2",
@@ -91,27 +91,10 @@ const projects = [
     skills: ["HTML, CSS, JS"],
     url: "",
   },
-  {
-    id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "",
-  },
-  {
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "",
-  },
-  {
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "",
-  },
+  
 ];
 
-const section4Title = "Miscellaneous";
+const section4Title = "Check out my UX/UI page!";
 const miscellaneous = [
   {
     id: "misc1",
