@@ -98,17 +98,17 @@ const section4Title = "Check out my UX/UI page!";
 const miscellaneous = [
   {
     id: "misc1",
-    name: "Miscellaneous 1",
+    name: "Project 1",
     url: "",
   },
   {
     id: "misc2",
-    name: "Miscellaneous 2",
+    name: "Project 2",
     url: "",
   },
   {
     id: "misc3",
-    name: "Miscellaneous 3",
+    name: "Project 3",
     url: "",
   },
 ];
